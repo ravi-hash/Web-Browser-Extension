@@ -1,0 +1,11 @@
+html body
+{
+    background: url(https://images7.alphacoders.com/736/736462.png);
+}
+
+
+body {
+    background: gray;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
